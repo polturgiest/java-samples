@@ -56,10 +56,7 @@ public class SampleCSV {
 			}
 			fw.flush();
 			
-			fr = new FileReader(
-					// new File("F:/SacramentocrimeJanuary2006.csv")
-					tempFile
-				);
+			fr = new FileReader(tempFile);
 			
 			c = new CSVParser(
 					fr, 
