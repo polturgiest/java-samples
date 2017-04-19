@@ -4,10 +4,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.Reader;
-import java.net.URI;
 import java.net.URL;
-import java.net.URLDecoder;
-import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
