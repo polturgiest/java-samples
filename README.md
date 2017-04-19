@@ -1,2 +1,2 @@
 # java-samples
-## Collections on Java Samples
+## Collections of Java Sample
